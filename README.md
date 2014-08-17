@@ -1,4 +1,4 @@
-banana-desk-machine
+banana-cache-machine
 ===================
 
-Fork/Customization from django-cache-machine, bulk_inserts return ids.
+Fork/Customization from django-cache-machine.
