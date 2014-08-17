@@ -1,0 +1,1 @@
+PYTHONPATH=/opt/cachemachine/cachemachine/cachemachine/ DJANGO_SETTINGS_MODULE=settings python setup.py develop
